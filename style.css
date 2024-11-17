@@ -1,0 +1,29 @@
+.quotes {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+    text-align: center;
+}
+
+.quotes h1 {
+    font-weight: bold;
+    font-size: 80px;
+}
+
+.instruction,
+#qoute {
+    font-weight: 400;
+    font-size: 35px;
+}
+
+.btn {
+    padding: 20px 60px;
+    background-color: blue;
+    color: #fff;
+}
+
+.btn:hover {
+    background-color: green;
+}
